@@ -1,0 +1,7 @@
+streamlit
+pdfminer==20191125
+pdf2image
+pytesseract
+tensorflow
+transformers
+tf-keras
